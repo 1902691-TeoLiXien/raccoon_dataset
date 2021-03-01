@@ -1,4 +1,6 @@
 filename,width,height,class,xmin,ymin,xmax,ymax
+0.jpg,800,600,slope,23,36,800,501
+1.jpg,800,600,slope,50,344,644,469
 10.jpg,800,600,slope,1,112,661,498
 16.jpg,800,600,slope,39,140,793,436
 18.jpg,800,600,slope,1,257,586,365
@@ -7,6 +9,7 @@ filename,width,height,class,xmin,ymin,xmax,ymax
 40.jpg,800,600,slope,208,173,605,533
 43.jpg,800,600,slope,237,291,769,388
 49.jpg,800,600,slope,218,209,752,360
+5.jpg,800,600,slope,122,202,647,399
 50.jpg,800,600,slope,12,267,800,423
 53.jpg,800,600,slope,4,265,293,546
 54.jpg,800,600,slope,356,155,624,389
