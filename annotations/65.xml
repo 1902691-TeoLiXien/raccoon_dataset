@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>65.jpg</filename>
+	<path>C:\Users\Jia Lin\git\object_detection_demo\data\images\65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>91</ymin>
+			<xmax>746</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
